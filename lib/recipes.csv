@@ -1,2 +1,5 @@
-pizza,round
-pizza,round
+name,description,prep_time,difficulty,done
+Fig & honey Christmas cake,"This traditional Christmas cake is the perfect combination of fruit, nuts and spices",4 hours,More effort,true
+Figs with prosciutto,"A super-quick, delicious fig and prosciutto dish, great for a starter or snack",5 mins,Easy,false
+fig,spanish,20min,super easy,true
+Banana pancakes,Gluten-free banana pancakes you can whip up in just 10 minutes! Scatter with pecans and raspberries to enjoy a low-calorie yet indulgent breakfast,10 mins,Easy,false
